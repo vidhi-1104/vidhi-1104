@@ -13,8 +13,6 @@ I bridge the gap between product strategy and data insights. I'm passionate abou
 
 ### 🚀 Highlighted Projects
 * **[GoalFlow_SaaS](https://github.com/vidhi-1104/GoalFlow_SaaS):** A strategic employee copilot. Handled end-to-end product implementation including multi-stage user authentication (OTP), identity verification, and automated strategic roadmaps with real-time progress tracking.
-* **[Zepto Sales Analysis](https://github.com/vidhi-1104/Zepto-Sales-Analysis):** Built a Q-Commerce retail operations dashboard analyzing outlet performance and customer ratings to optimize supply chain efficiency.
-* **[Book Market Analysis](https://github.com/vidhi-1104/Book-Market-Analysis):** Interactive Power BI dashboard analyzing top 100 best-sellers to uncover publisher performance and sales volumes.
 * **[IPL Auction SQL Case Study](https://github.com/vidhi-1104/ipl-sql-case-study):** Analyzed IPL 2025 mega auction data using T-SQL — CTEs, window functions, and correlated subqueries to uncover team spend patterns, pricing tiers, and role-based player valuation across all 10 franchises.
   
 ### 📬 Connect with Me
