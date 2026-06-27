@@ -16,6 +16,8 @@ I bridge the gap between product strategy and data insights. I'm passionate abou
 * **[Zepto Sales Analysis](https://github.com/vidhi-1104/Zepto-Sales-Analysis):** Built a Q-Commerce retail operations dashboard analyzing outlet performance and customer ratings to optimize supply chain efficiency.
 * **[Book Market Analysis](https://github.com/vidhi-1104/Book-Market-Analysis):** Interactive Power BI dashboard analyzing top 100 best-sellers to uncover publisher performance and sales volumes.
 * **[IPL Auction SQL Case Study](https://github.com/vidhi-1104/ipl-sql-case-study):** Analyzed IPL 2025 mega auction data using T-SQL — CTEs, window functions, and correlated subqueries to uncover team spend patterns, pricing tiers, and role-based player valuation across all 10 franchises.
+* **[T20I SQL Case Study](https://github.com/vidhi-1104/t20i-sql-case-study):** Analyzed 2024 T20 International match data using T-SQL — window functions, string parsing, and CTEs to explore team win records, head-to-head matchups, winning margins, and monthly match trends.
+  
 
 ### 📬 Connect with Me
 * **LinkedIn:** [vidhi-teotia](https://linkedin.com/in/vidhi-teotia-531362215)
